@@ -1,0 +1,2 @@
+cmd创建文件命令：
+cd.>index.html
